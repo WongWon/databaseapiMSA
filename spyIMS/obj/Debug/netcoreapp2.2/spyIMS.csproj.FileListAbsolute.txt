@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\spyIMS\spyIMS\bin\Debug\netcoreapp2.2\spyIMS.deps.json
+C:\Users\david\source\repos\spyIMS\spyIMS\bin\Debug\netcoreapp2.2\spyIMS.runtimeconfig.json
+C:\Users\david\source\repos\spyIMS\spyIMS\bin\Debug\netcoreapp2.2\spyIMS.runtimeconfig.dev.json
+C:\Users\david\source\repos\spyIMS\spyIMS\bin\Debug\netcoreapp2.2\spyIMS.dll
+C:\Users\david\source\repos\spyIMS\spyIMS\bin\Debug\netcoreapp2.2\spyIMS.pdb
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.csprojAssemblyReference.cache
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.RazorAssemblyInfo.cache
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.RazorAssemblyInfo.cs
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.AssemblyInfo.cs
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.RazorTargetAssemblyInfo.cache
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.dll
+C:\Users\david\source\repos\spyIMS\spyIMS\obj\Debug\netcoreapp2.2\spyIMS.pdb
